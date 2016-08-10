@@ -1,6 +1,0 @@
-
-   IAR ELF Tool V9.18.3.131 [BUILT at IAR]
-   Copyright 2007-2015 IAR Systems AB.
-
-Loading test_ha.out
-Saving srec file to test_ha.s37
